@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "51967296072",
+    "project_id": "coociebook",
+    "storage_bucket": "coociebook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51967296072:android:0eff3125dd123eaa4a8e7d",
+        "android_client_info": {
+          "package_name": "com.example.signalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0V5puvuJSLaW06pqb8h7PteKknAW8Fbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51967296072:android:ac6b5c6c1ee7dc144a8e7d",
+        "android_client_info": {
+          "package_name": "com.example.testfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0V5puvuJSLaW06pqb8h7PteKknAW8Fbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
